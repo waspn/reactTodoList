@@ -6,4 +6,4 @@ Instruction
 - Type 'cd folderdirectory/todolist' go to project folder 'todolist'
 - Install 'Serve' by typing 'npm install -g serve'
 - Type 'serve -s build' , web page can be opened at localhost:5000
-- Open Browser (Chrome) then type url 'http://http://localhost:5000/'
+- Open Browser (Chrome) then type url 'http://localhost:5000/'
